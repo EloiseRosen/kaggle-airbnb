@@ -15,3 +15,15 @@ This repository contains code written for the Airbnb New User Bookings Kaggle co
 **airbnb-kaggle.ipynb** - ipython notebook with data exploration and cleaning
 
 **airbnb-submission.py** - file that creates Kaggle submissions
+
+**train_users_2.csv** - the training set of users (provided by Airbnb)
+
+**test_users.csv** - the test set of users (provided by Airbnb)
+
+**sessions.csv** - web sessions log for users (provided by Airbnb)
+
+**countries.csv** - summary statistics of destination countries in this dataset and their locations (provided by Airbnb)
+
+**age_gender_bkts.csv** - summary statistics of users' age group, gender, country of destination (provided by Airbnb)
+
+**sample_submission.csv** - format for submitting predictions (provided by Airbnb)
