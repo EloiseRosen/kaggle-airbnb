@@ -9,7 +9,7 @@ This repository contains code written for Kaggle competitions.
 
 1. **kaggle-airbnb:** https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings
 
-2. **kaggle-sf-crime:** https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings
+2. **kaggle-sf-crime:** https://www.kaggle.com/c/sf-crime
 
 
 ## Folders
