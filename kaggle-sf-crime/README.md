@@ -1,12 +1,11 @@
 # kaggle-sf-crime
 
-This repository contains code written for the San Francisco Crime Classification Kaggle competition.
+This repository contains code I wrote for the San Francisco Crime Classification Kaggle competition. I placed 35th out of 2335 people.
 
-## links
+## Links
 
 the competition: https://www.kaggle.com/c/sf-crime
 
-my profile: https://www.kaggle.com/eloise
 
 ## Description
 
