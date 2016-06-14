@@ -10,7 +10,7 @@ This repository contains code written for Kaggle competitions.
 
 
 ## Folders
-1. **kaggle-sf-crime** - My entry got 35th out of 2335 people. Used crime reports from San Francisco police logs to predict crime type from time and location. Folder contains data sources, code for data exploration, and code for generating submission.
+1. **kaggle-sf-crime** - Used crime reports to predict crime type from time and location. I placed 35th out of 2335 people. Folder contains data sources, code for data exploration, and code for generating submission.
 
 2. **kaggle-airbnb** - Used data from airbnb to predict where a new user would book their first travel experience. Folder contains data sources, code for data exploration, and code for generating submission.
 
