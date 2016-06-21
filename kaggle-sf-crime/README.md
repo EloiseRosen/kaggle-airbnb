@@ -13,7 +13,9 @@ the competition: https://www.kaggle.com/c/sf-crime
 
 ## Files
 
-**kaggle-sf-crime.ipynb** - ipython notebook with data exploration and cleaning, and code to generate Kaggle submissions
+**GenerateSubmission.py** - code to generate submission
+
+**kaggle-sf-crime.ipynb** - ipython notebook with data exploration
 
 **train.csv.zip** - training data (provided by Kaggle)
 
