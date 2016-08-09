@@ -1,6 +1,6 @@
 # kaggle-nerve
 
-This repository contains code I wrote for the Ultrasound Nerve Segmentation Kaggle competition.
+This repository contains code I wrote for the Ultrasound Nerve Segmentation Kaggle competition. (NOTE: to be updated with code files after competition end date.)
 
 ## Links
 
@@ -15,7 +15,7 @@ the competition: https://www.kaggle.com/c/ultrasound-nerve-segmentation
 
 **GenerateSubmission.py** - code to generate submission (will be uploaded after end date)
 
-**NerveDataExploration.ipynb** - ipython notebook with data exploration
+**NerveDataExploration.ipynb** - ipython notebook with data exploration (will be uploaded after end date)
 
 **train_masks.csv** - gives the training image masks in run-length encoded format. This is provided as a convenience to demonstrate how to turn image masks into encoded text values for submission. (provided by Kaggle)
 
