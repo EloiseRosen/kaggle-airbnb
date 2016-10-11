@@ -13,6 +13,7 @@ This repository contains code written for the Airbnb New User Bookings Kaggle co
 
 ## Files
 **NOTE:** final versions of .py and .ipynb files not yet compiled here
+
 **airbnb-data-exploration.ipynb** - ipython notebook with data exploration and cleaning
 
 **airbnb-submission.py** - file that creates Kaggle submissions
