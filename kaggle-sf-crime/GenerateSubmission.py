@@ -8,8 +8,8 @@ from sklearn.base import BaseEstimator, TransformerMixin
 from sklearn.preprocessing import StandardScaler,FunctionTransformer
 from sklearn.pipeline import Pipeline
 
-df = pd.read_csv('/Users/eloiserosen/Downloads/train.csv')
-df_test = pd.read_csv('/Users/eloiserosen/Downloads/test.csv')
+df = pd.read_csv('train.csv')
+df_test = pd.read_csv('test.csv')
 
 
 #####################################
